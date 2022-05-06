@@ -28,9 +28,11 @@ body{
 }
 
 a{
+    text-decoration: none;
     border: 2px solid;   
     padding: 10px;
-    border-radius: 50%;
+    border-radius: 30px;
+    border: none;
     cursor: pointer;
 }
 
@@ -44,6 +46,7 @@ a:hover{
     flex-direction: row;
     margin-top: 300px;
     gap: 10px;
+    
     
 }
 
