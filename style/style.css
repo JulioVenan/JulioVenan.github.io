@@ -2,8 +2,10 @@ body{
     width: 1280px;
     max-width: 100%;
     margin-top: 100px;
-    padding-left: 15px;
+    margin: auto;
+    padding: 20px;
     background-color: rgba(49, 46, 46, 0.932);
+    
 }
 
 
@@ -11,6 +13,7 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
+    
 }
 
 #section2{
@@ -22,8 +25,15 @@ body{
 
 #section3{
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    
+
+}
+
+#section4{
+    display: flex;
+    flex-direction: row;
+    
 
 }
 
