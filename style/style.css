@@ -1,31 +1,37 @@
 body{
     width: 1280px;
     max-width: 100%;
-    margin-top: 100px;
-    margin: auto;
-    padding: 20px;
+    margin-top: 0 auto;
+    padding: auto;
     background-color: rgba(49, 46, 46, 0.932);
     
 }
-
+nav{
+    margin-top: -298px;
+    margin-left: -10px;
+    background-color: rgba(137, 43, 226, 0.63);
+ height: 75px;
+    
+}
 
 #section1{
     display: flex;
     flex-direction: row;
     align-items: center;
-    
+    margin-left: 10px;
 }
 
 #section2{
     display: flex;
     flex-direction: row;
-    
+    margin-left: 10px;
 }
 
 
 #section3{
     display: flex;
     flex-direction: row;
+    margin-left: 10px;
     
 
 }
@@ -33,6 +39,7 @@ body{
 #section4{
     display: flex;
     flex-direction: row;
+    margin-left: 10px;
     
 
 }
@@ -47,13 +54,14 @@ a{
 }
 
 a:hover{
-    background-color: blueviolet;
+    background-color: rgb(174, 43, 226);
     color: white;
 }
 
 #a1{
     display: flex;
     flex-direction: row;
+    padding: 10px;
     margin-top: 300px;
     gap: 10px;
     
