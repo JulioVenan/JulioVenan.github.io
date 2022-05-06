@@ -1,16 +1,31 @@
 body{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     width: 1280px;
     max-width: 100%;
     margin-top: 100px;
-    align-items: center;
     padding-left: 15px;
     background-color: rgba(49, 46, 46, 0.932);
 }
 
- 
+#section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#section3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
 h2{
     font-size: 35;
     
@@ -24,9 +39,7 @@ ul{
     font-family: 'Koulen', cursive;
 }
 
-#per{
-    align-self: right 1000px;
-}
+
 
 ul{
     list-style-type: none;
