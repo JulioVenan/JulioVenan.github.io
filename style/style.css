@@ -3,13 +3,13 @@ body{
     max-width: 100%;
     margin-top: 0 auto;
     padding: auto;
-    background-color: rgba(49, 46, 46, 0.932);
+    background-color: rgb(49, 46, 46);
     
 }
 nav{
     margin-top: -298px;
     margin-left: -10px;
-    background-color: rgba(137, 43, 226, 0.63);
+    background-color: rgba(61, 58, 58, 0.795);
  height: 75px;
     
 }
