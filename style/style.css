@@ -6,11 +6,20 @@ body {
 
 }
 
+
 nav {
     margin-top: -298px;
     margin-left: -10px;
     background-color: rgba(61, 58, 58, 0.795);
     height: 75px;
+
+}
+
+section img {
+    border: 2px solid;
+    border-color: blueviolet;
+    border-radius: 50%;
+    width: 180px;
 
 }
 
@@ -100,10 +109,16 @@ ul {
     list-style-position: center;
 }
 
-img {
-    border: 2px solid;
-    border-color: blueviolet;
-    border-radius: 50%;
-    width: 180px;
-
+aside{
+    margin: auto;
+    position: absolute;
+    left: 800px;
+    top: 100px;
 }
+
+aside img {
+    width: 300px;
+    border-radius: 10%;
+}
+
+
